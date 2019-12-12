@@ -31,3 +31,21 @@ body {
 .center {
   text-align: center;
 }
+
+.rojo {
+  color: red;
+}
+
+.publicacion {
+  background-color: #fafafa;
+  padding: 10px;
+  margin: 8px;
+  /* border-top: .12rem dashed #ccc; */
+  border-radius: 8px;
+  box-shadow: 0 0 8px 1px #ccc;
+  cursor: pointer;
+}
+
+li {
+  margin: 15px 0;
+}
